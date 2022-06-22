@@ -16,3 +16,11 @@ string getWrongAnswers(int N, string C) {
   }
   return ans;
 }
+
+
+int main(){
+    int n; cin >> n;
+    string S; cin >> S;
+    cout << getWrongAnswers(n,S) << endl;
+    return 0;
+}
