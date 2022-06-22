@@ -2,6 +2,8 @@
 import java.util.*;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+
+// Complete the function
 class Solution {
   
   public String getWrongAnswers(int N, String C) {
